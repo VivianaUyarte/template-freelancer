@@ -1,0 +1,14 @@
+.nav-link {
+  color: red; }
+
+.nav-item {
+  color: black; }
+
+header {
+  background-image: url(../img/hero.png);
+  height: 130vh; }
+  header div .logo-freelancer {
+    width: 10% !important;
+    height: 50px; }
+
+/*# sourceMappingURL=style.css.map */

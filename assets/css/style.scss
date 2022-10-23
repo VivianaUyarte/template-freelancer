@@ -1,0 +1,21 @@
+    $rojo: red;
+    $negro: black;
+
+    .nav-link{
+        color: $rojo;
+    }
+    .nav-item{
+        color: $negro;
+    }
+
+    header{
+        background-image: url(../img/hero.png);
+        height: 130vh;
+        div{
+            .logo-freelancer{
+                width: 10% !important;
+                height: 50px;
+            }
+        }
+    }
+
